@@ -36,16 +36,16 @@ const Footer = () => {
 
       <div className="links">
       <div className="leftLink">
-        <a href="https://github.com/MaheshB45">
+        <a href="https://github.com/Shreyasssonar/">
           <img src={github} alt="git" />
         </a>
-        <a href="https://www.linkedin.com/in/mahesh-bahir-931b8b1b0/">
+        <a href="#">
           <img src={linkedin} alt="linkedin" />
         </a>
-        <a href="mailto:maheshbahir45@gmail.com">
+        <a href="#np">
           <img src={email} alt="email" />
         </a>
-        <a href="-">
+        <a href="">
           <img src={instagram} alt="instagram" />
         </a>
       </div>
